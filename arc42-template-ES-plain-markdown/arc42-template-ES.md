@@ -124,6 +124,7 @@ Debe mantener consistencia de inventario al registrar recepciones.
 
 Se debe evitar recepción de cantidades superiores a las ordenadas.
 # Alcance y Contexto del Sistema {#section-context-and-scope}
+![Diagrama de Contexto C1](./image.png)
 ## Contexto de Negocio {#_contexto_de_negocio}
 El ERP se utiliza dentro de la fábrica de calzado para controlar procesos internos y conectar el flujo de insumos hacia la producción.
 
@@ -147,6 +148,8 @@ Los clientes comercializadores reciben productos terminados y generan demanda in
 
 ## Contexto Técnico {#_contexto_técnico}
 Diagrama o Tabla
+![Diagrama Técnico](./image (3).png)
+
 Explicación de interfaces técnicas
 
 El frontend web se comunica con el backend mediante HTTP/HTTPS.
@@ -183,6 +186,7 @@ Se maneja el Módulo de Compras como componente independiente, pero integrado co
 ## Sistema General de Caja Blanca {#_sistema_general_de_caja_blanca}
 
 ***\<Diagrama general\>***
+![Diagrama de Contenedores C2](./image (1).png)
 
 Motivación
 
@@ -268,6 +272,7 @@ Registro de recepción.
 
 -   *\<Inserte un diagrama de ejecución o la descripción del
     escenario\>*
+![Diagrama de Secuencia - Registrar Insumo](./image (2).png)
 
 -  Flujo del escenario
 
