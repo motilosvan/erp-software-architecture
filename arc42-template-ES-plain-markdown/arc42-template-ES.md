@@ -124,8 +124,7 @@ Debe mantener consistencia de inventario al registrar recepciones.
 
 Se debe evitar recepción de cantidades superiores a las ordenadas.
 # Alcance y Contexto del Sistema {#section-context-and-scope}
-![Diagrama de Contexto C1](./image20
-%.png)
+![Diagrama de Contexto C1](./image.png)
 ## Contexto de Negocio {#_contexto_de_negocio}
 El ERP se utiliza dentro de la fábrica de calzado para controlar procesos internos y conectar el flujo de insumos hacia la producción.
 
